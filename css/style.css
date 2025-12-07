@@ -1,0 +1,16 @@
+.logo-w.pad-login{
+    padding: 10% 5% 5%;
+}
+.logo-w.page {
+    padding: 10px 25px;
+}
+.daterangepicker {
+    min-width: 280px !important;
+    max-width: 280px !important;
+}
+.main-menu {
+    padding: 1rem 1rem !important;
+}
+.top-bar .logged-user-w .logged-user-menu {
+    background: #293145 !important;
+}
